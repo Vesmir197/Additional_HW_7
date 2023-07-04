@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Sintony&family=Sofia&family=Tomorrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Sintony&family=Sofia&family=Tomorrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Sintony&family=Sofia&family=Tomorrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Nanum+Myeongjo&family=Sintony&family=Sofia&family=Tomorrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=Grandiflora+One&family=Montserrat:wght@100&family=Nanum+Myeongjo&family=Sintony&family=Sofia&family=Tomorrow&display=swap');
+body {
+    max-width: 1440px;
+    margin-top: 10vh;
+    margin-left: 10vh;
+    margin-right: 5vh;
+    margin-bottom: 10vh;
+  
+}
+main {
+    padding-left: 6vw;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 100vh 100vh;
+
+}
+p {
+    font-family: 'Montserrat';
+}
+
+.text {
+    margin-top: 16vh;
+
+}
+.phylosophy{
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: rgb(126, 122, 122);
+    padding-right: 0;
+}
+
+.convergence {
+    margin-right: 5vw;
+    margin-left: 0vw;
+    padding-left: 1vw;
+    font-family: 'Nanum Myeongjo';
+    font-size: 60px;
+}
+.color-text {
+    color: rgb(87, 146, 77);
+    font-family: 'Cormorant';
+    font-size: 65px;
+    padding: 0;
+    margin: 0;
+}
+.koma {
+    font-family: 'Cormorant';
+    font-size: 60px;
+}
+.end {
+ 
+    font-family: 'Nanum Myeongjo';
+    font-size: 60px; 
+    padding-right: 4vw;
+}
+
+.description {
+margin-left: 15vw;
+margin-top: 6vh;
+margin-right: 0;
+width: 25vw;
+height: 16vh;
+font-size: 16px;
+font-weight: 800;
+}
+.button {
+margin-top: 8vh;
+margin-left: 7vw;
+font-family: 'Montserrat';
+text-decoration: none;
+background-color: white;
+color: rgb(204, 148, 35);
+border: 0cap;
+}
+.grid {
+    display: subgrid;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: 50vh 50vh;
+}
+.woods {
+    display:grid;
+}
+
+
+
+
+
+
